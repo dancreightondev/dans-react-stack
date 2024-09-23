@@ -13,5 +13,6 @@
         @apply h-full;
         @apply select-none;
         @apply font-sans;
+        @apply text-body;
     }
 }

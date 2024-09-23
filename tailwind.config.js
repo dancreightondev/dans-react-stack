@@ -33,9 +33,9 @@ export default {
           Text uses three colours.
           They have different contrast levels, and their names embody their purpose.
         */
-        text_body: '#F8F8F2',
-        text_support: '#ADB5CB',
-        text_shy: '#6272A4',
+        body: '#F8F8F2',
+        support: '#ADB5CB',
+        shy: '#6272A4',
 
         /*
           Critical is for error messages or destructive actions.
